@@ -4,3 +4,5 @@ combined.ts
 tHMM.ds
 server-stats.log
 config.json
+config.example.json
+osu!.sql
